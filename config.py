@@ -1,3 +1,6 @@
+import os
+
+
 # префикс бота
 BOT_PREFIX = "!"
 # статус бота
@@ -61,7 +64,7 @@ COMMANDS_HELP = {
 }
 
 # токен
-TOKEN = "NzA5MzE2MzQyMTUwNDYzNTE5.XrkJlw._Su8MLKaA1780Sp0KnHMEXl25Ec"
+TOKEN = str(os.environ.get("BOT_TOKEN"))
 
 # ссылка на переводчик
 URL_TRANS = "https://translate.yandex.net/api/v1.5/tr.json/translate"
