@@ -1,3 +1,7 @@
+!pip install opencv-python
+!apt update && apt install -y libsm6 libxext6
+
+
 # подключение библиотек
 from PIL import Image
 import pytesseract
