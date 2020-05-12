@@ -1,0 +1,11 @@
+discord.py
+json
+random
+datetime
+requests
+asyncio
+pytesseract
+PIL
+Pillow
+os
+cv2
