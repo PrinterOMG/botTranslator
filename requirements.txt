@@ -1,11 +1,6 @@
-json
-discord.py
-random
-datetime
+jsondiscord.py
 requests
-asyncio
 pytesseract
 PIL
 Pillow
-os
 cv2
