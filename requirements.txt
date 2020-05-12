@@ -3,3 +3,4 @@ requests
 pytesseract
 Pillow
 opencv-python
+libsm
