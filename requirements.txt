@@ -2,4 +2,4 @@ discord.py
 requests
 pytesseract
 Pillow
-cv2
+opencv-python
