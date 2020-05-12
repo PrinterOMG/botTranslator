@@ -4,5 +4,3 @@ pytesseract
 Pillow
 opencv-python
 libsm
-libxext6
-libxrender-dev
