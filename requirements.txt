@@ -1,6 +1,5 @@
 discord.py
 requests
 pytesseract
-PIL
 Pillow
 cv2
