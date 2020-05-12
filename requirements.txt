@@ -1,4 +1,4 @@
-jsondiscord.py
+discord.py
 requests
 pytesseract
 PIL
